@@ -11,7 +11,7 @@ class ExperienceSeeder extends Seeder
     {
         Experience::create([
             'title' => 'Juara 1 Lomba Taekwondo',
-            'organization' => 'Nama Penyelenggara',
+            'organization' => 'Taekwondo Telkom university',
             'description' => 'Menang lomba taekwondo tingkat kampus/kota.',
             'category' => 'Lomba',
             'image' => 'images/experiences/Taekwondo.jpeg',

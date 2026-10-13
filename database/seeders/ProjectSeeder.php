@@ -13,17 +13,7 @@ class ProjectSeeder extends Seeder
             'title' => 'Website Portfolio',
             'description' => 'Personal website dibangun pakai Laravel 13 dan Tailwind CSS.',
             'image' => 'images/projects/Website.png',
-            'link' => 'https://github.com/username/porto',
-            'category' => 'Website',
-            'is_highlight' => true,
-            'date' => '2026-10-01',
-        ]);
-
-        Project::create([
-            'title' => ' ',
-            'description' => 'Personal website dibangun pakai Laravel 13 dan Tailwind CSS.',
-            'image' => 'images/projects/Website.png',
-            'link' => 'https://github.com/username/porto',
+            'link' => 'https://github.com/jawachitam/Portofolio_Website',
             'category' => 'Website',
             'is_highlight' => true,
             'date' => '2026-10-01',
