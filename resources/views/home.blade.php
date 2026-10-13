@@ -61,7 +61,7 @@
                         @if ($item->link)
                             <a href="{{ $item->link }}" target="_blank" class="mt-4 inline-flex items-center gap-1 text-sm font-medium text-violet-600 transition hover:text-violet-700">
                                 Lihat selengkapnya
-                                <svg xmlns="https://github.com/jawachitam/Portofolio_Website" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-4">
+                                <svg xmlns="https://github.com/jawachitam/Portofolio_Website.git" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-4">
                                     <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" />
                                 </svg>
                             </a>
