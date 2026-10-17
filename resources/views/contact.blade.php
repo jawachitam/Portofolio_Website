@@ -20,8 +20,9 @@
                     </svg>
                 </a>
 
-                <a href="mailto:raihanibrahim552@gmail.com"
-                   class="flex size-12 items-center justify-center rounded-full bg-white/10 text-white transition hover:bg-white/20">
+               <a href="mailto:raihanibrahim552@gmail.com"
+                    onclick="if (window.matchMedia('(pointer: fine)').matches) { window.open('https://mail.google.com/mail/?view=cm&fs=1&to=raihanibrahim552@gmail.com&su=Halo%20Raihan', '_blank'); return false; }"
+                    class="flex size-12 items-center justify-center rounded-full bg-white/10 text-white transition hover:bg-white/20">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" class="size-6">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0-.414.336-.75.75-.75h18a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75H3a.75.75 0 0 1-.75-.75V6.75Z" />
                         <path stroke-linecap="round" stroke-linejoin="round" d="m2.25 7 9.19 6.13a1.5 1.5 0 0 0 1.62 0L22.25 7" />
